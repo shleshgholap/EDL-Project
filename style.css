@@ -9,7 +9,7 @@ iframe {
   height: 100%;
   width: 100%;
   /* Adjusting max-width to 1000px to match your specified requirements */
-  max-width: 1000px;
+  max-width: 600px;
   /* Ensuring iframes are centered and display correctly */
   margin: 0 auto;
   display: block;
