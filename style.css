@@ -6,7 +6,7 @@ iframe {
 
 /* Updated responsive iframe styling to accommodate larger charts */
 iframe {
-  height: 100%;
+  height: auto;
   width: 100%;
   /* Adjusting max-width to 1000px to match your specified requirements */
   max-width: 600px;
